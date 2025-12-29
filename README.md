@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# MulyonoGPT
 
-## Getting Started
+![](https://raw.githubusercontent.com/itshaiheree/mulyono-gpt/a6d76c87334b91c757cf07bd880a4a98177dc84e/public/mulyonogpt-profile.png "It's MulyonoGPT")
 
-First, run the development server:
+## Wait, ini apaan njir
+Jadi, ini adalah hasil project gabut ku yang bikin website chat bot dengan intergasi ChatGPT API (dalam case ini aku pakai API dari [Ryzumi API](https://api.ryzumi.vip), keren asli API nya)
 
-```bash
+⚠️ Project ini dibuat semata-mata hanya untuk hiburan
+
+# Cara pakai
+Tinggal kunjungin [mulyonogpt.mhai.my.id](https://mulyonogpt.mhai.my.id) terus mulai deh
+
+# Fitur
+1. Chat (ya nama juga AI Chatbot)
+2. Udah disertai loading handler saat chatting
+
+### List rencana buat next fitur
+1. Bisa terima file
+2. Bisa chat via voice (speech-to-text)
+3. MulyonoGPT nya bisa ngomong (text-to-speech) | (masih nyari yg voicebank nya ada suara cowoknya)
+4. Custom kepribadian MulyonoGPT-nya (prompt customization, via web maupun via file config dari server)
+
+Bikin fitur-fitur yg direncanain-nya kapan? Kapan-kapan (woilah malas ngoding aku rek 😂)
+
+##
+
+
+# Mau run sendiri bisa?
+Bisa lah, tinggal clone aja. Atau bisa pull repo ini.
+
+Terus tinggal run aja pakai
+```
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+atau
+
+```
+npm run build
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Mudah kan??
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+# ! CATATAN !
+API yang digunakan ini bukan **Official API ChatGPT**. Besar kemungkinan jawabannya bakal lebih nguawur.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Ditambah, untuk project ini sendiri udah kubuat prompt buat karakteristik tersendiri, jadi jawabannya bakalan lebih "berkarakteristik" (ah gitulah pokoknya)
 
-## Learn More
+##
+"Gaada file config-nya kah buat aturnya"
 
-To learn more about Next.js, take a look at the following resources:
+Sementara ini gaada, lagi malas ngoding wkwk
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+##
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# Donation
+Buat yang mau dukung gwejh ngoding, bisa lewat link saweria [disini](https://saweria.co/akuanaksehatt)
 
-## Deploy on Vercel
+Oiya, buat yang mau donasi ke pembuat API nya bisa langsung mampir ke [Website](https://api.ryzumi.vip/) atau [Github](https://github.com/ShirokamiRyzen) nya
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Kalau suka, bisa di star ya ges yak!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+##
+Dah si, itu aja.
+
+Arigatou, minna!!

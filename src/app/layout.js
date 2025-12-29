@@ -3,17 +3,10 @@ import Script from 'next/script'
 
 export const metadata = {
   title: {
-      template: "%s | mhai.my.id",
-      default: "mhai.my.id"
+      template: "%s | MulyonoGPT",
+      default: "MulyonoGPT"
   },
-  description: "Hi!",
-  openGraph: {
-  images: [
-    {
-      url: 'https://mhai.my.id/opengraph-image.png', // Must be an absolute URL
-    },
-  ],
-},
+  description: "MulyonoGPT - AI Pria Solo Untuk Membantu Kebutuhanmu. Mengobrol, berbincang dan bertanya tentang berbagai topik dengan AI Asli Solo!\n\n⚠️ HANYA UNTUK HIBURAN SEMATA, TIDAK ADA MAKSUD LAIN ⚠️",
 };
 
 export default function RootLayout({ children }) {

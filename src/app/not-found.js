@@ -3,7 +3,7 @@ import Content from './components/content';
 import ButtonNotFound from './components/buttonNotFound';
 
 export const metadata = {
-  title: "Non inventum!",
+  title: "Yo Ndak Ada Kok Tanya Saya! - MulyonoGPT",
 };
 
 const NotFound = async () => {
@@ -21,9 +21,9 @@ const NotFound = async () => {
 >
   <Content>
     <div className="space-y-5 md:space-y-4">
-      <h2 className="text-3xl font-bold">Non inventum!</h2>
+      <h2 className="text-3xl font-bold">Yo Ndak Ada, Kok Tanya Saya!</h2>
       <p className="text-xl">
-        Sorry, we can't find that page. Double check your link and try again!
+        File/Halaman Yang Kamu Cari Ndak Ada Di Sini. Coba Cek Lagi Link-nya!
       </p>
       <ButtonNotFound />
     </div>
