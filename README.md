@@ -3,7 +3,7 @@
 MulyonoGPT
 </h1>
 <img src="https://raw.githubusercontent.com/itshaiheree/mulyono-gpt/a6d76c87334b91c757cf07bd880a4a98177dc84e/public/mulyonogpt-profile.png" alt="It's MulyonoGPT" width="100" align="center"></img>
-
+</div>
 
 ## Wait, ini apaan njir
 Jadi, ini adalah hasil project gabut ku yang bikin website chat bot dengan intergasi ChatGPT API (dalam case ini aku pakai API dari [Ryzumi API](https://api.ryzumi.vip), keren asli API nya)
@@ -44,6 +44,8 @@ npm start
 
 Mudah kan??
 
+##
+
 # ! CATATAN !
 API yang digunakan ini bukan **Official API ChatGPT**. Besar kemungkinan jawabannya bakal lebih nguawur.
 
@@ -67,4 +69,3 @@ Kalau suka, bisa di star ya ges yak!
 Dah si, itu aja.
 
 Arigatou, minna!!
-</div>
